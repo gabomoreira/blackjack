@@ -14,9 +14,7 @@
 
 Para usar BlackJack, clique no link abaixo:
 
-```
 [![Abrir com Netlifly]](https://condescending-hypatia-2dff79.netlify.app/)
-```
 
 ## 🤝 Colaborador
 
